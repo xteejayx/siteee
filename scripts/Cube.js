@@ -1,0 +1,1 @@
+var timeleft = 10;
